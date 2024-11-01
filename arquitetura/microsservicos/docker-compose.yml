@@ -12,6 +12,7 @@ services:
 
     sub:
         build: sub
+        
     mult:
         build: mult
 

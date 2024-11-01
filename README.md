@@ -9,7 +9,7 @@ Exemplos de projetos usando os conceitos apresentados na disciplina de **Desenvo
 
 ## Tabela de Conteúdo
 
-Assunto| Projeto | Atividade
+Assunto| Projeto | Atividad
 ---:|:---:|:---:
 **Framework**|   |
 1 | [Django Poll App](https://github.com/rodrigoclira/devweb2/tree/main/framework) |  
